@@ -4,7 +4,7 @@
 */
 
 // Startkode
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 interface IPerson {
     name: string;
